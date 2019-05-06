@@ -4,7 +4,9 @@
     <profile name="Maven 1" modules="ExactlyOnce">
       <parameters>
         <parameter value="-dependencyfile" />
+
         <parameter value="C:\Users\齐永浩\Desktop\ExactlyOnce-master\target/.scala_dependencies" />
+
       </parameters>
     </profile>
   </component>
